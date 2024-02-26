@@ -25,6 +25,8 @@ class Musicas_Favoritas_Service:
                             'titulo': musica.titulo,
                             'artista': musica.artista,
                             'genero': musica.genero,
+                            'tempo_aproximado': musica.tempo_aproximado,
+                            'data_lancamento': musica.data_lancamento,
                             'usuario_id': musica.usuario_id
                         })
                     return {"status": "success", "data": musicas_list}, 200
@@ -54,6 +56,8 @@ class Musicas_Favoritas_Service:
                     'titulo': musica.titulo,
                     'artista': musica.artista,
                     'genero': musica.genero,
+                    'tempo_aproximado': musica.tempo_aproximado,
+                    'data_lancamento': musica.data_lancamento,
                     'usuario_id': musica.usuario_id
                 }}, 200
             else:
@@ -70,6 +74,8 @@ class Musicas_Favoritas_Service:
                 titulo=musica_data["titulo"],
                 artista=musica_data["artista"],
                 genero=musica_data["genero"],
+                tempo_aproximado=musica_data["tempo_aproximado"],
+                data_lancamento=musica_data["data_lancamento"],
                 usuario_id=musica_data["usuario_id"]
             )
 

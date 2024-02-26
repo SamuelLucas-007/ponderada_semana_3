@@ -67,3 +67,6 @@ python app.py
 ```bash
 http://ec2.amazonaws.com:3000/api/ponderada/
 ```
+
+
+# Link do video de demonstração

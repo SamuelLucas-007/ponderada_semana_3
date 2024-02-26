@@ -50,6 +50,8 @@
                 <th>Título</th>
                 <th>Artista</th>
                 <th>Gênero</th>
+                <th>Tempo Aproximado</th>
+                <th>Data de Lançamento</th>
                 <th>ID do Usuário</th>
             </tr>
         </thead>
@@ -61,6 +63,8 @@
                     <td>{{ musica.titulo }}</td>
                     <td>{{ musica.artista }}</td>
                     <td>{{ musica.genero }}</td>
+                    <td>{{ musica.tempo_aproximado }}</td>
+                    <td>{{ musica.data_lancamento }}</td>
                     <td>{{ musica.usuario_id }}</td>
                 </tr>
                 {% endfor %}
