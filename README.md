@@ -70,3 +70,5 @@ http://ec2.amazonaws.com:3000/api/ponderada/
 
 
 # Link do video de demonstração
+
+https://drive.google.com/file/d/1TCfW11_582RjyJADRlWBJYf97wLv47bK/view?usp=sharing
