@@ -141,3 +141,15 @@ FROM musicas_favoritas]
 2024-02-26 10:11:53,113 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
 2024-02-26 10:11:53,115 - src.utils - INFO - Músicas retornadas com sucesso: [Título: zumzumzum, Artista: Teto, Gênero: trap, ID do Usuário: 409161b2-167d-4154-87dd-a52a6b912432]
 2024-02-26 10:11:53,115 - src.utils - INFO - Músicas retornadas com sucesso: [Título: zumzumzum, Artista: Teto, Gênero: trap, ID do Usuário: 409161b2-167d-4154-87dd-a52a6b912432]
+2024-02-26 10:41:03,333 - src.utils - INFO - Música favorita criada com sucesso: Título: zumzumzum, Artista: Teto, Gênero: trap, ID do Usuário: 409161b2-167d-4154-87dd-a52a6b912432
+2024-02-26 10:41:03,333 - src.utils - INFO - Música favorita criada com sucesso: Título: zumzumzum, Artista: Teto, Gênero: trap, ID do Usuário: 409161b2-167d-4154-87dd-a52a6b912432
+2024-02-26 10:41:03,656 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:41:03,656 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:41:03,659 - src.utils - INFO - Músicas retornadas com sucesso: [Título: zumzumzum, Artista: Teto, Gênero: trap, ID do Usuário: 409161b2-167d-4154-87dd-a52a6b912432, Título: zumzumzum, Artista: Teto, Gênero: trap, ID do Usuário: 409161b2-167d-4154-87dd-a52a6b912432]
+2024-02-26 10:41:03,659 - src.utils - INFO - Músicas retornadas com sucesso: [Título: zumzumzum, Artista: Teto, Gênero: trap, ID do Usuário: 409161b2-167d-4154-87dd-a52a6b912432, Título: zumzumzum, Artista: Teto, Gênero: trap, ID do Usuário: 409161b2-167d-4154-87dd-a52a6b912432]
+2024-02-26 10:41:20,375 - src.utils - INFO - Cliente criado com sucesso: Nome do cliente: Fafa, Email: samuellucas007@outlook.com.br
+2024-02-26 10:41:20,375 - src.utils - INFO - Cliente criado com sucesso: Nome do cliente: Fafa, Email: samuellucas007@outlook.com.br
+2024-02-26 10:41:20,697 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br, Nome do cliente: Fafa, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:41:20,697 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br, Nome do cliente: Fafa, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:41:20,700 - src.utils - INFO - Músicas retornadas com sucesso: [Título: zumzumzum, Artista: Teto, Gênero: trap, ID do Usuário: 409161b2-167d-4154-87dd-a52a6b912432, Título: zumzumzum, Artista: Teto, Gênero: trap, ID do Usuário: 409161b2-167d-4154-87dd-a52a6b912432]
+2024-02-26 10:41:20,700 - src.utils - INFO - Músicas retornadas com sucesso: [Título: zumzumzum, Artista: Teto, Gênero: trap, ID do Usuário: 409161b2-167d-4154-87dd-a52a6b912432, Título: zumzumzum, Artista: Teto, Gênero: trap, ID do Usuário: 409161b2-167d-4154-87dd-a52a6b912432]

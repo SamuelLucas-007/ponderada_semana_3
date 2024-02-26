@@ -64,7 +64,7 @@ class Clientes_Service:
             # Criando um novo cliente
 
             new_client = ClientesModel(
-                nome=cliente_data["name"],
+                nome=cliente_data["nome"],
                 email=cliente_data["email"]
             )
 
