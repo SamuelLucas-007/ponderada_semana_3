@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adicionar Música Favorita</title>
+</head>
+<body>
+    <h1>Adicionar Música Favorita</h1>
+    <form action="{{ url_for('api.main.create_musica') }}" method="post">
+        <label for="titulo">Título:</label><br>
+        <input type="text" id="titulo" name="titulo" required><br>
+        <label for="artista">Artista:</label><br>
+        <input type="text" id="artista" name="artista" required><br>
+        <label for="genero">Gênero:</label><br>
+        <input type="text" id="genero" name="genero" required><br>
+        <label for="usuario_id">ID do Usuário:</label><br>
+        <input type="text" id="usuario_id" name="usuario_id" required><br><br>
+        <button type="submit">Adicionar Música Favorita</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,143 @@
+2024-02-25 14:17:04,902 - src.utils - ERROR - Erro ao retornar clientes: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on 'db' ([Errno 11001] getaddrinfo failed)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-02-25 19:19:24,686 - src.utils - ERROR - Erro ao retornar clientes: (MySQLdb.OperationalError) (2005, "Unknown server host 'db' (11001)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-02-25 19:21:03,165 - src.utils - ERROR - Erro ao retornar clientes: (MySQLdb.OperationalError) (2005, "Unknown server host 'db' (11001)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-02-25 19:21:33,279 - src.utils - ERROR - Erro ao retornar clientes: (MySQLdb.OperationalError) (2005, "Unknown server host 'db' (11001)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-02-25 19:21:41,560 - src.utils - ERROR - Erro ao retornar clientes: (MySQLdb.OperationalError) (2005, "Unknown server host 'db' (11001)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-02-25 19:22:32,685 - src.utils - ERROR - Erro ao retornar clientes: (MySQLdb.OperationalError) (2005, "Unknown server host 'db' (11001)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-02-25 19:23:25,973 - src.utils - ERROR - Erro ao retornar clientes: (MySQLdb.OperationalError) (2005, "Unknown server host 'db' (11001)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-02-25 19:27:06,368 - src.utils - ERROR - Erro ao retornar clientes: (MySQLdb.OperationalError) (2005, "Unknown server host 'db' (11001)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-02-25 19:27:29,936 - src.utils - ERROR - Erro ao retornar clientes: (MySQLdb.OperationalError) (2005, "Unknown server host 'db' (11001)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-02-25 19:29:46,576 - src.utils - ERROR - Erro ao retornar clientes: (MySQLdb.OperationalError) (2005, "Unknown server host 'db' (11001)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-02-25 19:31:28,536 - src.utils - ERROR - Erro ao retornar clientes: (MySQLdb.OperationalError) (2005, "Unknown server host 'db' (11001)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-02-25 19:34:29,470 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-25 19:38:33,085 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-25 19:39:22,821 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-25 19:40:39,422 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-25 19:40:40,651 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-25 19:41:07,336 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-25 19:41:46,909 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-25 22:44:49,487 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:08:12,539 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:11:27,374 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:12:51,937 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:14:05,929 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:14:05,929 - src.utils - ERROR - Erro ao retornar clientes: clientes.html
+2024-02-26 09:14:07,347 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:14:07,348 - src.utils - ERROR - Erro ao retornar clientes: clientes.html
+2024-02-26 09:14:20,674 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:15:13,839 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:15:45,162 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:15:57,372 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:16:31,735 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:16:49,123 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:17:36,722 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:18:06,182 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:18:11,387 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:20:04,716 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:20:06,445 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:20:17,706 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:20:46,748 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:20:48,248 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:20:49,574 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:20:50,177 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:21:38,294 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:24:00,945 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:24:09,288 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:24:37,194 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:25:11,408 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:30:21,707 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:31:02,014 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:31:32,378 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:47:22,139 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:48:53,188 - src.utils - INFO - Clientes retornados com sucesso: []
+2024-02-26 09:52:32,565 - src.utils - INFO - Cliente criado com sucesso: Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br
+2024-02-26 09:52:32,788 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 09:53:22,736 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 09:53:51,804 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 09:54:07,387 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 09:54:44,120 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 09:54:52,871 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 09:55:18,770 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 09:55:54,791 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 09:56:12,279 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:06:43,443 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:06:43,443 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:06:43,448 - src.utils - ERROR - Erro ao retornar músicas: (MySQLdb.ProgrammingError) (1146, "Table 'ponderada.musicas_favoritas' doesn't exist")
+[SQL: SELECT musicas_favoritas.id AS musicas_favoritas_id, musicas_favoritas.titulo AS musicas_favoritas_titulo, musicas_favoritas.artista AS musicas_favoritas_artista, musicas_favoritas.genero AS musicas_favoritas_genero, musicas_favoritas.usuario_id AS musicas_favoritas_usuario_id 
+FROM musicas_favoritas]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-02-26 10:06:43,448 - src.utils - ERROR - Erro ao retornar músicas: (MySQLdb.ProgrammingError) (1146, "Table 'ponderada.musicas_favoritas' doesn't exist")
+[SQL: SELECT musicas_favoritas.id AS musicas_favoritas_id, musicas_favoritas.titulo AS musicas_favoritas_titulo, musicas_favoritas.artista AS musicas_favoritas_artista, musicas_favoritas.genero AS musicas_favoritas_genero, musicas_favoritas.usuario_id AS musicas_favoritas_usuario_id 
+FROM musicas_favoritas]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-02-26 10:07:12,499 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:07:12,499 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:07:12,502 - src.utils - ERROR - Erro ao retornar músicas: (MySQLdb.ProgrammingError) (1146, "Table 'ponderada.musicas_favoritas' doesn't exist")
+[SQL: SELECT musicas_favoritas.id AS musicas_favoritas_id, musicas_favoritas.titulo AS musicas_favoritas_titulo, musicas_favoritas.artista AS musicas_favoritas_artista, musicas_favoritas.genero AS musicas_favoritas_genero, musicas_favoritas.usuario_id AS musicas_favoritas_usuario_id 
+FROM musicas_favoritas]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-02-26 10:07:12,502 - src.utils - ERROR - Erro ao retornar músicas: (MySQLdb.ProgrammingError) (1146, "Table 'ponderada.musicas_favoritas' doesn't exist")
+[SQL: SELECT musicas_favoritas.id AS musicas_favoritas_id, musicas_favoritas.titulo AS musicas_favoritas_titulo, musicas_favoritas.artista AS musicas_favoritas_artista, musicas_favoritas.genero AS musicas_favoritas_genero, musicas_favoritas.usuario_id AS musicas_favoritas_usuario_id 
+FROM musicas_favoritas]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-02-26 10:07:58,201 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:07:58,201 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:07:58,207 - src.utils - ERROR - Erro ao retornar músicas: (MySQLdb.ProgrammingError) (1146, "Table 'ponderada.musicas_favoritas' doesn't exist")
+[SQL: SELECT musicas_favoritas.id AS musicas_favoritas_id, musicas_favoritas.titulo AS musicas_favoritas_titulo, musicas_favoritas.artista AS musicas_favoritas_artista, musicas_favoritas.genero AS musicas_favoritas_genero, musicas_favoritas.usuario_id AS musicas_favoritas_usuario_id 
+FROM musicas_favoritas]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-02-26 10:07:58,207 - src.utils - ERROR - Erro ao retornar músicas: (MySQLdb.ProgrammingError) (1146, "Table 'ponderada.musicas_favoritas' doesn't exist")
+[SQL: SELECT musicas_favoritas.id AS musicas_favoritas_id, musicas_favoritas.titulo AS musicas_favoritas_titulo, musicas_favoritas.artista AS musicas_favoritas_artista, musicas_favoritas.genero AS musicas_favoritas_genero, musicas_favoritas.usuario_id AS musicas_favoritas_usuario_id 
+FROM musicas_favoritas]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-02-26 10:08:43,116 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:08:43,116 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:08:43,118 - src.utils - ERROR - Erro ao retornar músicas: (MySQLdb.ProgrammingError) (1146, "Table 'ponderada.musicas_favoritas' doesn't exist")
+[SQL: SELECT musicas_favoritas.id AS musicas_favoritas_id, musicas_favoritas.titulo AS musicas_favoritas_titulo, musicas_favoritas.artista AS musicas_favoritas_artista, musicas_favoritas.genero AS musicas_favoritas_genero, musicas_favoritas.usuario_id AS musicas_favoritas_usuario_id 
+FROM musicas_favoritas]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-02-26 10:08:43,118 - src.utils - ERROR - Erro ao retornar músicas: (MySQLdb.ProgrammingError) (1146, "Table 'ponderada.musicas_favoritas' doesn't exist")
+[SQL: SELECT musicas_favoritas.id AS musicas_favoritas_id, musicas_favoritas.titulo AS musicas_favoritas_titulo, musicas_favoritas.artista AS musicas_favoritas_artista, musicas_favoritas.genero AS musicas_favoritas_genero, musicas_favoritas.usuario_id AS musicas_favoritas_usuario_id 
+FROM musicas_favoritas]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-02-26 10:09:22,698 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:09:22,698 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:09:22,700 - src.utils - ERROR - Erro ao retornar músicas: (MySQLdb.ProgrammingError) (1146, "Table 'ponderada.musicas_favoritas' doesn't exist")
+[SQL: SELECT musicas_favoritas.id AS musicas_favoritas_id, musicas_favoritas.titulo AS musicas_favoritas_titulo, musicas_favoritas.artista AS musicas_favoritas_artista, musicas_favoritas.genero AS musicas_favoritas_genero, musicas_favoritas.usuario_id AS musicas_favoritas_usuario_id 
+FROM musicas_favoritas]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-02-26 10:09:22,700 - src.utils - ERROR - Erro ao retornar músicas: (MySQLdb.ProgrammingError) (1146, "Table 'ponderada.musicas_favoritas' doesn't exist")
+[SQL: SELECT musicas_favoritas.id AS musicas_favoritas_id, musicas_favoritas.titulo AS musicas_favoritas_titulo, musicas_favoritas.artista AS musicas_favoritas_artista, musicas_favoritas.genero AS musicas_favoritas_genero, musicas_favoritas.usuario_id AS musicas_favoritas_usuario_id 
+FROM musicas_favoritas]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-02-26 10:11:02,044 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:11:02,044 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:11:02,049 - src.utils - ERROR - Erro ao retornar músicas: (MySQLdb.ProgrammingError) (1146, "Table 'ponderada.musicas_favoritas' doesn't exist")
+[SQL: SELECT musicas_favoritas.id AS musicas_favoritas_id, musicas_favoritas.titulo AS musicas_favoritas_titulo, musicas_favoritas.artista AS musicas_favoritas_artista, musicas_favoritas.genero AS musicas_favoritas_genero, musicas_favoritas.usuario_id AS musicas_favoritas_usuario_id 
+FROM musicas_favoritas]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-02-26 10:11:02,049 - src.utils - ERROR - Erro ao retornar músicas: (MySQLdb.ProgrammingError) (1146, "Table 'ponderada.musicas_favoritas' doesn't exist")
+[SQL: SELECT musicas_favoritas.id AS musicas_favoritas_id, musicas_favoritas.titulo AS musicas_favoritas_titulo, musicas_favoritas.artista AS musicas_favoritas_artista, musicas_favoritas.genero AS musicas_favoritas_genero, musicas_favoritas.usuario_id AS musicas_favoritas_usuario_id 
+FROM musicas_favoritas]
+(Background on this error at: https://sqlalche.me/e/20/f405)
+2024-02-26 10:11:49,598 - src.utils - INFO - Música favorita criada com sucesso: Título: zumzumzum, Artista: Teto, Gênero: trap, ID do Usuário: 409161b2-167d-4154-87dd-a52a6b912432
+2024-02-26 10:11:49,598 - src.utils - INFO - Música favorita criada com sucesso: Título: zumzumzum, Artista: Teto, Gênero: trap, ID do Usuário: 409161b2-167d-4154-87dd-a52a6b912432
+2024-02-26 10:11:49,914 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:11:49,914 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:11:49,916 - src.utils - INFO - Músicas retornadas com sucesso: [Título: zumzumzum, Artista: Teto, Gênero: trap, ID do Usuário: 409161b2-167d-4154-87dd-a52a6b912432]
+2024-02-26 10:11:49,916 - src.utils - INFO - Músicas retornadas com sucesso: [Título: zumzumzum, Artista: Teto, Gênero: trap, ID do Usuário: 409161b2-167d-4154-87dd-a52a6b912432]
+2024-02-26 10:11:53,113 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:11:53,113 - src.utils - INFO - Clientes retornados com sucesso: [Nome do cliente: Shmull, Email: samuellucas007@outlook.com.br]
+2024-02-26 10:11:53,115 - src.utils - INFO - Músicas retornadas com sucesso: [Título: zumzumzum, Artista: Teto, Gênero: trap, ID do Usuário: 409161b2-167d-4154-87dd-a52a6b912432]
+2024-02-26 10:11:53,115 - src.utils - INFO - Músicas retornadas com sucesso: [Título: zumzumzum, Artista: Teto, Gênero: trap, ID do Usuário: 409161b2-167d-4154-87dd-a52a6b912432]

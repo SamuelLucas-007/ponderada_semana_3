@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Clientes e Músicas Favoritas</title>
+    <style>
+        th {
+            padding-right: 20px; /* Adiciona um espaçamento de 20px à direita */
+        }
+        td {
+            padding-right: 20px; /* Adiciona um espaçamento de 20px à direita */
+        }
+    </style>
+</head>
+<body>
+    <h1>Lista de Clientes e Músicas Favoritas</h1>
+    
+    <h2>Clientes:</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nome</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% if clients %}
+                {% for client in clients %}
+                <tr>
+                    <td>{{ client.id }}</td>
+                    <td>{{ client.nome }}</td>
+                    <td>{{ client.email }}</td>
+                </tr>
+                {% endfor %}
+            {% else %}
+                <tr>
+                    <td colspan="4">Nenhum cliente encontrado</td>
+                </tr>
+            {% endif %}
+        </tbody>
+    </table>
+
+    <h2>Músicas Favoritas:</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Título</th>
+                <th>Artista</th>
+                <th>Gênero</th>
+                <th>ID do Usuário</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% if musicas %}
+                {% for musica in musicas %}
+                <tr>
+                    <td>{{ musica.id }}</td>
+                    <td>{{ musica.titulo }}</td>
+                    <td>{{ musica.artista }}</td>
+                    <td>{{ musica.genero }}</td>
+                    <td>{{ musica.usuario_id }}</td>
+                </tr>
+                {% endfor %}
+            {% else %}
+                <tr>
+                    <td colspan="5">Nenhuma música encontrada</td>
+                </tr>
+            {% endif %}
+        </tbody>
+    </table>
+
+    <a href="{{ url_for('api.main.create_cliente_page') }}">Adicionar Cliente</a>
+    
+    <a href="{{ url_for('api.main.create_musica_page') }}">Adicionar Música Favorita</a>
+</body>
+</html>
